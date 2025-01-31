@@ -1,0 +1,2 @@
+(a) The method printReceiptInOrder() results in a complexity of O(n) where n is the number of Items in the ArrayList cart
+(b) The method emptyCartReverseOrder() removes an Item from the end of ArrayList cart which is an operation O(1), but the loop also runs n times, so they complexity is O(n)
